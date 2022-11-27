@@ -9,17 +9,22 @@
 
 <url>
   <loc>https://app.bwcxlg.top/</loc>
-  <lastmod>2022-11-18T22:54:52+00:00</lastmod>
+  <lastmod>2022-11-26T06:22:11+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
+  <loc>https://app.bwcxlg.top/index.html</loc>
+  <lastmod>2022-11-26T06:22:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://app.bwcxlg.top/apps/1.html</loc>
-  <lastmod>2022-11-12T06:34:47+00:00</lastmod>
+  <lastmod>2022-11-12T06:34:46+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://app.bwcxlg.top/apps/2.html</loc>
-  <lastmod>2022-11-12T06:51:01+00:00</lastmod>
+  <lastmod>2022-11-12T06:51:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -34,7 +39,7 @@
 </url>
 <url>
   <loc>https://app.bwcxlg.top/apps/5.html</loc>
-  <lastmod>2022-11-12T07:14:51+00:00</lastmod>
+  <lastmod>2022-11-12T07:14:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -44,17 +49,17 @@
 </url>
 <url>
   <loc>https://app.bwcxlg.top/apps/7.html</loc>
-  <lastmod>2022-11-12T07:23:33+00:00</lastmod>
+  <lastmod>2022-11-12T07:23:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://app.bwcxlg.top/apps/8.html</loc>
-  <lastmod>2022-11-12T07:26:47+00:00</lastmod>
+  <lastmod>2022-11-12T07:26:46+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://app.bwcxlg.top/apps/9.html</loc>
-  <lastmod>2022-11-12T07:31:45+00:00</lastmod>
+  <lastmod>2022-11-19T00:51:20+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -64,7 +69,7 @@
 </url>
 <url>
   <loc>https://app.bwcxlg.top/apps/11.html</loc>
-  <lastmod>2022-11-12T07:42:15+00:00</lastmod>
+  <lastmod>2022-11-12T07:42:14+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -79,7 +84,7 @@
 </url>
 <url>
   <loc>https://app.bwcxlg.top/apps/14.html</loc>
-  <lastmod>2022-11-12T07:56:29+00:00</lastmod>
+  <lastmod>2022-11-12T07:56:28+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -88,8 +93,13 @@
   <priority>0.80</priority>
 </url>
 <url>
+  <loc>https://app.bwcxlg.top/apps/31.html</loc>
+  <lastmod>2022-11-19T03:02:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://app.bwcxlg.top/apps/16.html</loc>
-  <lastmod>2022-11-12T08:47:33+00:00</lastmod>
+  <lastmod>2022-11-12T08:47:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -99,7 +109,7 @@
 </url>
 <url>
   <loc>https://app.bwcxlg.top/apps/18.html</loc>
-  <lastmod>2022-11-12T08:54:49+00:00</lastmod>
+  <lastmod>2022-11-12T08:54:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -114,42 +124,47 @@
 </url>
 <url>
   <loc>https://app.bwcxlg.top/apps/27.html</loc>
-  <lastmod>2022-11-13T01:30:31+00:00</lastmod>
+  <lastmod>2022-11-13T01:30:30+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://app.bwcxlg.top/apps/29.html</loc>
-  <lastmod>2022-11-13T02:29:06+00:00</lastmod>
+  <lastmod>2022-11-19T00:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://app.bwcxlg.top/apps/32.html</loc>
+  <lastmod>2022-11-19T01:40:20+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://app.bwcxlg.top/apps/21.html</loc>
-  <lastmod>2022-11-12T09:02:51+00:00</lastmod>
+  <lastmod>2022-11-12T09:02:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://app.bwcxlg.top/apps/22.html</loc>
-  <lastmod>2022-11-12T09:05:29+00:00</lastmod>
+  <lastmod>2022-11-12T09:05:28+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://app.bwcxlg.top/apps/23.html</loc>
-  <lastmod>2022-11-12T09:07:59+00:00</lastmod>
+  <lastmod>2022-11-12T09:07:58+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://app.bwcxlg.top/apps/24.html</loc>
-  <lastmod>2022-11-12T09:10:33+00:00</lastmod>
+  <lastmod>2022-11-12T09:10:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://app.bwcxlg.top/apps/25.html</loc>
-  <lastmod>2022-11-12T09:13:07+00:00</lastmod>
+  <lastmod>2022-11-12T09:13:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://app.bwcxlg.top/apps/26.html</loc>
-  <lastmod>2022-11-13T01:06:11+00:00</lastmod>
+  <lastmod>2022-11-13T01:06:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -159,7 +174,32 @@
 </url>
 <url>
   <loc>https://app.bwcxlg.top/apps/30.html</loc>
-  <lastmod>2022-11-13T03:00:03+00:00</lastmod>
+  <lastmod>2022-11-13T03:00:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://app.bwcxlg.top/apps/31.html</loc>
+  <lastmod>2022-11-13T03:00:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://app.bwcxlg.top/apps/32.html</loc>
+  <lastmod>2022-11-13T03:00:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://app.bwcxlg.top/apps/33.html</loc>
+  <lastmod>2022-11-13T03:00:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://app.bwcxlg.top/apps/34.html</loc>
+  <lastmod>2022-11-13T03:00:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://app.bwcxlg.top/apps/35.html</loc>
+  <lastmod>2022-11-13T03:00:02+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 

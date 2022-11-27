@@ -1,18 +1,18 @@
 <!doctype html>
-
-<script src="//unpkg.com/mdui@1.0.2/dist/js/mdui.min.js"></script>
-<link rel="stylesheet" href="//unpkg.com/mdui@1.0.2/dist/css/mdui.min.css"/>
-
 <html> 
     <head> 
         <meta charset="UTF-8"> 
+        <link rel="manifest" href="/manifest.json">
         <meta name="viewport" id="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"> 
         <link rel="icon" href="images/favicon.jpg" type="image/x-icon"> 
-        <link rel="stylesheet" href="mdui/css/mdui.min.css">
-        <script src="mdui/js/mdui.min.js"></script>
+        <link rel="stylesheet" href="https://unpkg.com/mdui@1.0.2/dist/css/mdui.min.css" />
+        <script src="https://unpkg.com/mdui@1.0.2/dist/js/mdui.min.js"></script>
 		<link rel="stylesheet" type="text/css" href="waves/waves.min.css" />
 		<link rel="stylesheet" type="text/css" href="theme.css" />
         <title>粼光应用商店</title> 
+        <meta name="description" content="不只是一个应用市场•粼光">
+        <meta name="author" content="秋鸽-乔晓啸">
+        <meta name="keywords" content="应用商店, 应用, App store, 秋鸽, 粼光">
     </head> 
     <body class="mdui-drawer-body-left"> 
         <header class="mdui-appbar mdui-appbar-fixed mdui-appbar-inset mdui-shadow-0">
@@ -24,7 +24,23 @@
         <a class="mdui-typo-headline" href="index.html"></a>
         <div class="mdui-toolbar-spacer"></div>
         <button href="javascript:;" class="mdui-btn mdui-ripple mdui-btn-icon" mdui-tooltip="{content: '打开调色板'}" mdui-dialog="{target: '#setTheme'}"><i class="mdui-icon material-icons" id="switch-atheme">brightness_6</i></button>
-        <button href="javascript;" class="mdui-btn mdui-ripple mdui-btn-icon" mdui-menu="{target: '#example-attr'}"><i class="mdui-icon material-icons">perm_identity</i></button>
+        <button href="javascript;" class="mdui-btn mdui-ripple mdui-btn-icon" mdui-menu="{target: '#example-attr'}"><i class="mdui-icon material-icons">more_vert</i></button>
+
+<ul class="mdui-menu" id="example-attr">
+  <li class="mdui-menu-item">
+    <a href="javascript:;" class="mdui-ripple">Refresh</a>
+  </li>
+  <li class="mdui-menu-item" disabled>
+    <a href="javascript:;">Help & feedback</a>
+  </li>
+  <li class="mdui-menu-item">
+    <a href="javascript:;" class="mdui-ripple">Settings</a>
+  </li>
+  <li class="mdui-divider"></li>
+  <li class="mdui-menu-item">
+    <a href="javascript:;" class="mdui-ripple">Sign out</a>
+  </li>
+</ul>
         </div>
         </header>
         <div class="mdui-dialog mdui-color-theme-50" id="offline">
@@ -47,12 +63,11 @@
             <a href="https://jinshuju.net/f/EQ9Vxu" class="waves-block radius"><li class="mdui-list-item mdui-ripple">更新应用</li></a>                
             </ul>
             </li>
-
-            <li class="mdui-collapse-item mdui-collapse-item waves-block radius" >
-            <div class="mdui-collapse-item-header mdui-list-item mdui-ripple" class="">
+            
+            <a href="https://sparkling-store.github.io/docs/" class="mdui-list-item mdui-ripple">
             <i class="mdui-list-item-icon mdui-icon material-icons">insert_drive_file</i>
             <div class="mdui-list-item-content">商店文档</div>
-            </li>
+            </a>
 
             <li class="mdui-collapse-item mdui-collapse-item">
             <div class="mdui-collapse-item-header mdui-list-item mdui-ripple">
@@ -85,6 +100,7 @@
         </ul>
         </div>
         <br><br><br><br>
+<!--
         	    <div class="mdui-fab-wrapper" mdui-fab>
       <button class="mdui-fab mdui-ripple mdui-color-pink-accent">
         <i class="mdui-icon material-icons">add</i>
@@ -105,7 +121,7 @@
         </button>
       </div>
     </div>
-
+--!>
 <div class="mdui-container">
 <div class="mdui-container">
 </div>        
@@ -146,6 +162,10 @@
 </a>
 <a id="1.17" href="apps/31.html" style="margin-top:10px;margin-left:10px;text-decoration: none;"><img src="https://s1.ax1x.com/2022/11/19/zus1AJ.jpg" width="16%">
 </a>
+<a id="1.18" href="apps/34.html" style="margin-top:10px;margin-left:10px;text-decoration: none;"><img src="https://s1.ax1x.com/2022/11/26/zNJWK1.jpg" width="16%">
+</a>
+<a id="1.19" href="apps/35.html" style="margin-top:10px;margin-left:10px;text-decoration: none;"><img src="https://s1.ax1x.com/2022/11/27/zNhAVf.jpg" width="16%">
+</a>
 <div id="工具类埋点"></div>
 
 </div> 
@@ -168,6 +188,8 @@
 <a id="2.7"href="apps/29.html" style="margin-top:10px;margin-left:10px;text-decoration: none;"><img src="https://s1.ax1x.com/2022/11/19/zuwGVA.jpg" width="16%" />
 </a>
 <a id="2.8"href="apps/32.html" style="margin-top:10px;margin-left:10px;text-decoration: none;"><img src="https://s1.ax1x.com/2022/11/19/zuw2GV.jpg" width="16%" />
+</a>
+<a id="2.9"href="apps/33.html" style="margin-top:10px;margin-left:10px;text-decoration: none;"><img src="https://s1.ax1x.com/2022/11/26/zNY6df.jpg" width="16%" />
 </a>
 <div id="生活学习埋点"></div>
 
@@ -195,11 +217,11 @@
   </div> 
 <div class="mdui-card">
 <a id="3.7" href="apps/26.html" style="margin-top:10px;margin-left:10px;text-decoration: none;"><img src="https://s1.ax1x.com/2022/11/13/zFn7Y4.jpg"
- width="16%">
+ width="16%"></a>
 <a id="3.8" href="apps/28.html" style="margin-top:10px;margin-left:10px;text-decoration: none;"><img src="https://s1.ax1x.com/2022/11/13/zFu4gA.jpg"
- width="16%">
-<a id="3.9" href="apps/30.html" style="margin-top:10px;margin-left:10px;text-decoration: none;"><img src="https://s1.ax1x.com/2022/11/13/zF3kcQ.jpg"
- width="16%">
+ width="16%"></a>
+<a id="3.9" href="apps/30.html" style="margin-top:10px;margin-left:10px;text-decoration: none;"><img src="https://s1.ax1x.com/2022/11/26/zNUtoV.jpg"
+ width="16%"></a>
 <div id="Lua专区埋点"></div>
 </div> 
 
@@ -212,22 +234,20 @@
 
 <br>
 <div class="" align="center">
-<div class="mdui-divider"></div>
-
-
 </div>
 <div>
+<div class="mdui-divider"></div>
 <footer class="mdui-text-center mdui-color-theme-50 auto-dark">
-<a href="https://my.al7.cc" style="color:gray;"><h6>阿辉互联</h6></a>   
+<a href="https://www.rainyun.com/"><img src="https://app.rainyun.com/img/logo.3dcf7adc.png" width="16%"/></a>
+</p>
 <script id="LA-DATA-WIDGET" crossorigin="anonymous" charset="UTF-8" src="https://v6-widget.51.la/v6/Jsr9C1asXmEenk3q/quote.js?theme=0&f=12"></script>
-
 </footer>
 </div>
 		<div class="mdui-dialog mdui-color-theme-50" id="setTheme">
         <div class="mdui-toolbar" style="margin-top: 8px;padding-left: 8px;">
            	<span class="mdui-typo-title">调色板</span>
            	<div class="mdui-toolbar-spacer"></div>
-        	<div class="waves-circle"><button class="mdui-btn mdui-btn-icon" mdui-dialog-close><i class="mdui-icon material-icons">close</i></button></div>
+        	<!--<div class="waves-circle"><button class="mdui-btn mdui-btn-icon" mdui-dialog-close><i class="mdui-icon material-icons">close</i></button></div>--!>
         </div>
         <div class="mdui-dialog-content">
             <p style="font-size: 16px;">夜间模式</p>
@@ -448,15 +468,6 @@
         </div>
     </div>
     </body>
-    <div id="updateDialog" class="update-dialog">
-        <div class="update-dialog-title">最近更新</div>
-        <div class="update-dialog-content">2022年8月30日<br>-部分列表采用网格布局，优化大屏体验</div>
-		<div style="text-align: center;"><button class="update-dialog-btn" onclick="closeUpdateDialog()">我知道了</button></div>
-    </div>
-    <script>
-        var page = "Index";
-        var pageUpdateDate = 20220830;
-    </script>
     <script src="pageUpdateDialog.js"></script>
 	<script src="waves/waves.min.js"></script>
 	<script src="setTheme.js"></script>
